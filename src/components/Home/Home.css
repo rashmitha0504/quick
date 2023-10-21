@@ -1,0 +1,58 @@
+.home{
+    height: 100vh;
+    background:rgb(205, 220, 221);
+    display: flex;
+    position: sticky;
+}
+.home-left{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    padding-left: 180px;
+    line-height: 1.1;
+}
+.home-left h2{
+    color: #014572;
+    font-size: 26px;
+    font-weight: 600;
+}
+.home-left p{
+    color: #002c43;
+    font-size: 100px; 
+    font-weight: 700;
+}
+.home-hand-icon{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.home-hand-icon img{
+    width: 105px;
+}
+.home-img{
+    height:450px;
+    width:450px;
+}
+.home-latest-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 310px;
+    height: 70px;
+    border-radius: 75px;
+    margin-top: 30px;
+    color: aliceblue;
+    background: #002c43;
+    font-size: 22px;
+    font-weight: 500;
+}
+.home-right{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

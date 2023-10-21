@@ -1,0 +1,110 @@
+.productdisplay{
+    display: flex;
+    margin: 0px 170px;
+}
+.productdisplay-left{
+    display: flex;
+    gap: 13px;
+}
+.product-img-list{
+    display: flex;
+    flex-direction: column;
+    gap:13px;
+}
+.product-img-list img{
+    height:163px;
+}
+.productdisplay-main-img{
+    width:500px;
+    height:700px;
+}
+.productdisplay-right{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 70px;
+}
+.productdisplay-right h1{
+    color: rgb(29, 29, 29);
+    font-size: 40px;
+    font-weight: 700;
+}
+.product-right-description{
+    font-size: 20px;
+    color: rgb(80, 78, 78);
+}
+.productdisplay-star{
+    display: flex;
+    align-items: center;
+    margin-top: 13px;
+    gap:5px;
+    font-size: 16px;
+}
+.product-right-price{
+    display: flex;
+    flex-direction: column;
+    font-weight: 700;
+    margin: 40px 0px;
+    gap: 30px;
+    font-size: 24px;
+}
+.prices{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.product-right-price-old{
+    color: rgb(84, 83, 83);
+    text-decoration: line-through;
+}
+.product-right-price-new{
+    color: #023c8e;
+}
+.product-right-sizes{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2px;
+}
+.product-right-sizes h1{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(88, 88, 88);
+    margin-bottom: 3px;
+}
+.product-right-size{
+    display: flex;
+    flex-direction: row;
+    color: rgb(74, 73, 73);
+    font-size: 14px;
+    gap: 10px;
+    margin: 2px;
+}
+.product-right-size div{
+    padding: 12px ;
+    background: rgb(227, 226, 226);
+    border: 1px solid #ffffff;
+    border-radius: 33px;
+    cursor: pointer;
+    
+}
+.product-add-btn{
+    padding: 20px 40px;
+    width:200px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ebebeb;
+    background: #01527e;
+    margin-bottom: 20px;
+    border-radius: 45px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.product-right-category{
+    font-size: 14px;
+    color: #7c7a7a;
+    font-weight: 500;
+}
+.product-right-category span{
+    font-weight: 700;
+    color: black;
+}

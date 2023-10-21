@@ -1,0 +1,263 @@
+.item{
+    width: 350px;
+}
+.item p{
+    margin: 6px 0px;
+}
+.item-prices{
+    display: flex;
+    gap: 20px;
+}
+.item-price-new{
+    color: #080808;
+    font-size: 18px;
+    font-weight: 600;
+}
+.item-price-old{
+    color: rgb(57, 59, 61);
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+.item:hover{
+    transform: scale(1.05);
+    transition: 0.6s;
+}
+.item-image {
+    max-width: 90%; 
+    height: auto;    
+}
+.item-image-1{
+    width: 190px; 
+    height: 190px; 
+}
+.item-image-2{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-3{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-4{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-5{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-6{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-7{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-8{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-9{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-10{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-11{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-12{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-13{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-14{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-15{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-16{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-17{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-18{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-19{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-20{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-21{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-22{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-23{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-24{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-25{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-26{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-27{
+    width: 190px; 
+    height: 190px;
+}.item-image-28{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-29{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-30{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-31{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-32{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-33{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-34{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-35{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-36{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-37{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-38{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-39{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-40{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-41{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-42{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-43{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-44{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-45{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-46{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-47{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-48{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-49{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-50{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-51{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-52{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-53{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-54{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-55{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-56{
+    width: 190px; 
+    height: 190px;
+}
+.item-image-57{
+    width: 190px; 
+    height: 190px;
+}
+
+
+.item p{
+    font-size: 17px;
+    font-weight: bold;
+    color: #23698f;
+}
